@@ -1,2 +1,3 @@
-./node_mudules
-./dist
+/node_mudules
+/dist
+package-lock.json
